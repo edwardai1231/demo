@@ -1,0 +1,130 @@
+[
+  {
+    "id": 0,
+    "name": "Happy0",
+    "picture": "images/A.jpg",
+    "Price": 300000,
+    "FloorPlan": "1930 sqft",
+    "location": "Lisco, Alabama"
+  },
+  {
+    "id": 1,
+    "name": "Happy1",
+    "picture": "images/B.jpeg",
+    "Price": 123456,
+    "FloorPlan": "2000 sqfts",
+    "location": "Tooleville, West Virginia"
+  },
+  {
+    "id": 2,
+    "name": "Happy2",
+    "picture": "images/C.jpg",
+    "Price": 234567,
+    "FloorPlan": "1555 sqfts",
+    "location": "Freeburn, Idaho"
+  },
+  {
+    "id": 3,
+    "name": "Happy3",
+    "picture": "images/E.jpg",
+    "Price": 345678,
+    "FloorPlan": "2200 sqfts",
+    "location": "Camas, Pennsylvania"
+  },
+  {
+    "id": 4,
+    "name": "Happy4",
+    "picture": "images/E.jpg",
+    "Price": 456789,
+    "FloorPlan": "2333 sqfts",
+    "location": "Gerber, South Dakota"
+  },
+  {
+    "id": 5,
+    "name": "Happy5",
+    "picture": "images/B.jpeg",
+    "Price": 567890,
+    "FloorPlan": "1886 sqfts",
+    "location": "Innsbrook, Illinois"
+  },
+  {
+    "id": 6,
+    "name": "Happy6",
+    "picture": "images/A.jpg",
+    "Price": 678901,
+    "FloorPlan": "1830 sqfts",
+    "location": "Soudan, Louisiana"
+  },
+  {
+    "id": 7,
+    "name": "Happy7",
+    "picture": "images/D.jpg",
+    "Price": 789012,
+    "FloorPlan": "2100 sqfts",
+    "location": "Jacksonwald, Palau"
+  },
+  {
+    "id": 8,
+    "name": "Happy8",
+    "picture": "images/B.jpeg",
+    "Price": 890123,
+    "FloorPlan": "2000 sqfts",
+    "location": "Honolulu, Hawaii"
+  },
+  {
+    "id": 9,
+    "name": "Happy9",
+    "picture": "images/A.jpg",
+    "Price": 9012345,
+    "FloorPlan": "1900 sqfts",
+    "location": "Matheny, Utah"
+  },
+  {
+    "id": 10,
+    "name": "Happy10",
+    "picture": "images/E.jpg",
+    "Price": 123456,
+    "FloorPlan": "1998 sqfts",
+    "location": "Tyhee, Indiana"
+  },
+  {
+    "id": 11,
+    "name": "Happy11",
+    "picture": "images/B.jpeg",
+    "Price": 234567,
+    "FloorPlan": "1650 sqfts",
+    "location": "Windsor, Montana"
+  },
+  {
+    "id": 12,
+    "name": "Happy12",
+    "picture": "images/A.jpg",
+    "Price": 345677,
+    "FloorPlan": "1888 sqfts",
+    "location": "Kingstowne, Nevada"
+  },
+  {
+    "id": 13,
+    "name": "Happy13",
+    "picture": "images/C.jpg",
+    "Price": 345678,
+    "FloorPlan": "2000 sqfts",
+    "location": "Sultana, Massachusetts"
+  },
+  {
+    "id": 14,
+    "name": "Happy14",
+    "picture": "images/C.jpg",
+    "Price": 456789,
+    "FloorPlan": "1980 sqfts",
+    "location": "Broadlands, Oregon"
+  },
+  {
+    "id": 15,
+    "name": "Happy15",
+    "picture": "images/D.jpg",
+    "Price": 567890,
+    "FloorPlan": "2333 sqfts",
+    "location": "Dawn, Wisconsin"
+  }
+]
