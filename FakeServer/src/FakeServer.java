@@ -87,7 +87,6 @@ public class FakeServer {
 //			server.postMethod(url2, str1);  //create new post
 //			server.updateMethod(url3, str2);  //update existing post
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 	}
