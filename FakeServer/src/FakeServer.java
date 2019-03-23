@@ -83,9 +83,9 @@ public class FakeServer {
 					+ " \"body\": \"NYC\"}"; 
 		FakeServer server = new FakeServer();
 		try {
-//			server.getMethod(url1.concat(post1));   //get 20 posts in the table
+			server.getMethod(url1.concat(post1));   //get 20 posts in the table
 //			server.postMethod(url2, str1);  //create new post
-			server.updateMethod(url3, str2);  //update existing post
+//			server.updateMethod(url3, str2);  //update existing post
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
